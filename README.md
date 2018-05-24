@@ -19,9 +19,6 @@ tags:
   > * feature：功能分支
   > * hotfix：补丁分支
   > * release：预发分支
-  > * release：预发分支
-  > * release：预发分支
-  >
 
 2. 撰写提交信息，提交分支commit
 
