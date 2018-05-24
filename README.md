@@ -50,7 +50,7 @@ tags:
   >  * release: 发布新版本
   >  * style：格式（不影响代码运行的变动）
   >  * test：增加测试
-  >  * wip：移除文件或代码
+  > * wip：移除文件或代码
   >
   > scope代表本次commit影响的范围，比如app/test、shared/share-foot、webpack
   >
