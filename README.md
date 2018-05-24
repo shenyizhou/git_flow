@@ -9,7 +9,7 @@ tags:
 
 ### 步骤
 
-1. 新建分支
+#### 1. 新建分支
 
   `git checkout -b 类型/任务编号_任务内容`
 
@@ -20,7 +20,7 @@ tags:
   > * hotfix：补丁分支
   > * release：预发分支
 
-2. 撰写提交信息，提交分支commit
+#### 2. 撰写提交信息，提交分支commit
 
   ```
   git add --all
@@ -63,7 +63,7 @@ tags:
   > 特殊情况是revert，用于撤销以前的commit，比如 revert: feat(pencil): add 'graphiteWidth' option
 
 
-3. 与主干同步，合并commit
+#### 3. 与主干同步，合并commit
 
   ```
   git fetch origin
@@ -79,12 +79,12 @@ tags:
   > git rebase 会取消掉一条分支并将它的改动应用到另一条分支，看上去好像只有一条分支
   > -i即--interactive，可以从多个commit中选择需要的保留
 
-4. 推送到远程仓库
+#### 4. 推送到远程仓库
 
   `git push --force origin 我的分支名`
 
   > 因为rebase以后分支历史改变了，可能跟远程分支不兼容，所以要用--force强行推送
 
-5. 发出pull request
+#### 5. 发出pull request
 
   在仓库pull request到master分支，请求别人进行代码review，确认合并到master
