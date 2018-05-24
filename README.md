@@ -70,8 +70,6 @@ tags:
   git rebase -i oigin/master
   ```
 
-  > git fetch是获取更新，git pull是应用更新（origin代表的仓库的版本）
-  >
   > git fetch是获取更新，git pull是应用更新（origin代表的仓库的版本）
   > 
   > git merge 会合并两个分支为一个新的分支
