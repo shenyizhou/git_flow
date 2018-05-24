@@ -87,4 +87,4 @@ tags:
 
 #### 5. 发出pull request
 
-  在仓库pull request到master分支，请求别人进行代码review，确认合并到master
+  在仓库pull request（即PR，在gitlab中被称为merge request）到master分支，请求别人进行代码review，确认合并到master
