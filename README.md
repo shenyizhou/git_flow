@@ -39,17 +39,17 @@ tags:
   > git add --all 或者 -A，提交modified、new和deleted
 
   > type有以下几种：
-  >  * build：影响构建系统或外部依赖的改变
-  >  * chore：构建过程或辅助工具的变动
-  >  * ci：改变ci配置文件和脚本
-  >  * docs：即documentation，文档
-  >  * feat：即feature，新功能
-  >  * fix：修复bug
-  >  * perf：代码更改，提高性能
-  >  * refactor：重构（既不是新增功能，也不是修复bug）
-  >  * release: 发布新版本
-  >  * style：格式（不影响代码运行的变动）
-  >  * test：增加测试
+  > * build：影响构建系统或外部依赖的改变
+  > * chore：构建过程或辅助工具的变动
+  > * ci：改变ci配置文件和脚本
+  > * docs：即documentation，文档
+  > * feat：即feature，新功能
+  > * fix：修复bug
+  > * perf：代码更改，提高性能
+  > * refactor：重构（既不是新增功能，也不是修复bug）
+  > * release: 发布新版本
+  > * style：格式（不影响代码运行的变动）
+  > * test：增加测试
   > * wip：移除文件或代码
   >
   > scope代表本次commit影响的范围，比如app/test、shared/share-foot、webpack
