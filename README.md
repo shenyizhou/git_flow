@@ -72,6 +72,8 @@ tags:
 
   > git fetch是获取更新，git pull是应用更新（origin代表的仓库的版本）
   >
+  > git fetch是获取更新，git pull是应用更新（origin代表的仓库的版本）
+  > 
   > git merge 会合并两个分支为一个新的分支
   > 
   > git rebase 会取消掉一条分支并将它的改动应用到另一条分支，看上去好像只有一条分支
