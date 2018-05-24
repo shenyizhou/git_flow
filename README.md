@@ -16,9 +16,9 @@ tags:
   > -b 代表 branch，即新建一个分支
 
   > 类型有以下几种：
-    1. feature：功能分支
-    2. hotfix：补丁分支
-    3. release：预发分支
+  >> feature：功能分支
+  >> hotfix：补丁分支
+  >> release：预发分支
 
 2. 撰写提交信息，提交分支commit
 
